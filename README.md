@@ -1,1 +1,1 @@
-# Corpus_Q-A_Tool
+# Corpus QnA Tool
